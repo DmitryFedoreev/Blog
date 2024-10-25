@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome_articles on .DOC</title>
+    <link>//localhost:1313/awesome_article/</link>
+    <description>Recent content in Awesome_articles on .DOC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <managingEditor>youremail@example.com (Dmitry)</managingEditor>
+    <webMaster>youremail@example.com (Dmitry)</webMaster>
+    <copyright>© 2024 Dmitry Fedoreev</copyright>
+    <lastBuildDate>Wed, 23 Oct 2024 12:00:00 +0300</lastBuildDate><atom:link href="//localhost:1313/awesome_article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Удивительная статья</title>
+      <link>//localhost:1313/awesome_article/blog/</link>
+      <pubDate>Wed, 23 Oct 2024 12:00:00 +0300</pubDate>
+      <author>youremail@example.com (Dmitry)</author>
+      <guid>//localhost:1313/awesome_article/blog/</guid>
+      <description>Введение # Это содержание удивительной статьи.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/awesome_article/blog/feature-image.png" />
+    </item>
+    
+  </channel>
+</rss>
